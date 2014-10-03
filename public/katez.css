@@ -137,13 +137,22 @@ text-align:center;
 
 #menu-fondo-fijo:hover{
 
-color:red;
- opacity: 1.0;
+margin: 15px 0;
+-webkit-transition: all 1s ease;
+-moz-transition: all 1s ease;
+-ms-transition: all 1s ease;
+transition: all 1s ease;
+
+ opacity: 0.75;
+text-align:center;
+
+
+ 
 
 }
 
 #menu-fondo-fijo li:hover{
-
+opacity: 1.0;
 color:#FC0505; 
  
 
