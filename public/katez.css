@@ -138,10 +138,10 @@ text-align:center;
 #menu-fondo-fijo:hover{
 
 
--webkit-transition: all 1s ease;
--moz-transition: all 1s ease;
--ms-transition: all 1s ease;
-transition: all 1s ease;
+-webkit-transition: all 3s ease;
+-moz-transition: all 3s ease;
+-ms-transition: all 3s ease;
+transition: all 3s ease;
 
  
 text-align:center;
