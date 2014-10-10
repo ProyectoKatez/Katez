@@ -9,6 +9,13 @@
 	</head>
 	
 	<body>
+		<script src="../audio.js"></script>
+		<script>
+  			audiojs.events.ready(function() {
+    			var as = audiojs.createAll();
+			});
+		</script>
+
 		<div id ="contenedor">
 		<header id="cabecera">
 		</header>
@@ -30,7 +37,7 @@
 			<nav id="top_menu">
 				<ul>
 					
-					<li><iframe width="350" height="100" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/171164493&amp;color=ff5500&amp;auto_play=false&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false"></iframe></li>
+					<li><audio src="https://api.soundcloud.com/tracks/171164493/stream?consumer_key=f89a7ab2e651‌​4775a1cdb40ca5ddadd4" preload="auto" controls autoplay></audio></iframe></li>
 				
 					
 	
