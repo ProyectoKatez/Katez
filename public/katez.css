@@ -49,10 +49,10 @@ clear:both;
 }
 
 #redes_menu{
-	
+	clear:both;
 	padding-left: 100px;
-float:left;
-color:white;
+	float:right;
+	color:white;
 }
 
 #redes_menu li{
