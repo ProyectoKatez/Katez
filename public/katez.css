@@ -8,13 +8,14 @@ background: black;
 
 
 #cabecera{
-	
+	clear:both;
+	float:left;
 	margin:auto;
-height: 90px;
-width: 640px;
-background-image: url(img/katez_logo.png);
+	height: 90px;
+	width: 640px;
+	background-image: url(img/katez_logo.png);
 
-background-size: 100% 100%;
+	background-size: 50% 100%;
 }
 
 
