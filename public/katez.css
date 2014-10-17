@@ -1,6 +1,6 @@
 
 
-*{
+html{
 margin:0px;
 padding:0px;
 background-image: url(img/Fondo1.png);
@@ -13,7 +13,7 @@ background-image: url(img/Fondo1.png);
 	/*margin:auto;*/
 	height: 90px;
 	width: 320px;
-	background-image: url(img/katez_logo.png);
+	background-image: url(img/k-logo.png);
 
 	background-size: 100% 100%;
 }
