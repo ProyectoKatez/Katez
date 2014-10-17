@@ -47,10 +47,10 @@ clear:both;
 }
 
 #redes_menu{
-	
+	clear:both;
 	padding-left: 100px;
-float:left;
-color:white;
+	float:right;
+	color:white;
 }
 
 #redes_menu li{
@@ -62,9 +62,7 @@ padding:10px;
 margin-left: 40px;
 font:bold 25px Tahoma;
 }
-#redes_menu li:hover{
-background:white;	
-}
+
 
 #top_menu{
 	
@@ -98,12 +96,6 @@ text-align:center;
 
 }
 
-#facebook{
-	float: right;
-	margin: 5%;
-	width: 40%;
-
-}
 
 
 #menu-fondo-fijo {
