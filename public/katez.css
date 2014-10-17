@@ -98,18 +98,11 @@ margin: 15px 0;
 -ms-transition: all 1s ease;
 transition: all 1s ease;
 
- opacity: 0.75;
+ 
 text-align:center;
 }
 
-#foto:hover{
 
-margin-left: -70px;
-margin-right: -70px;
-
- opacity: 0.9;
-text-align:center;
-}
 
 #menu-fondo-fijo {
 	box-shadow: 0px 0px 70px 9px rgba(119, 119, 119, 0.75);
