@@ -90,9 +90,11 @@ text-align:center;
 
 
 #twitter{
+	clear:both;
 	float: left;
 	margin: 5%;
 	width: 40%;
+
 
 }
 
