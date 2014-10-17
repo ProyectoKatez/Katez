@@ -10,7 +10,7 @@ background: black;
 #cabecera{
 	clear:both;
 	float:left;
-	margin:auto;
+	/*margin:auto;*/
 	height: 90px;
 	width: 320px;
 	background-image: url(img/katez_logo.png);
