@@ -1,8 +1,7 @@
-*{
+html{
 margin:0px;
 padding:0px;
-background: black;
-}
+background-image: url(img/Fondo1.jpg);}
 
 
 #cabecera{
@@ -10,7 +9,7 @@ background: black;
 	margin:auto;
 height: 90px;
 width: 640px;
-background-image: url(img/katez_logo.png);
+background-image: url(img/k-logo.png);
 
 background-size: 100% 100%;
 }
