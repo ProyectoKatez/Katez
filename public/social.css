@@ -1,15 +1,16 @@
-html{
+*{
 margin:0px;
 padding:0px;
-background:black;
+background: black;
 }
+
 
 #cabecera{
 	
 	margin:auto;
 height: 90px;
 width: 640px;
-background-image: url(img/k-logo.png);
+background-image: url(img/katez_logo.png);
 
 background-size: 100% 100%;
 }
@@ -35,7 +36,11 @@ text-align: center;
 }
 
 #menu_entero{
+
+
     margin-bottom: -30px;
+
+background: #000000;
 }
 .limpiador{
 clear:both;
@@ -44,7 +49,7 @@ clear:both;
 #redes_menu{
 	clear:both;
 	padding-left: 100px;
-	float:right;
+float:right;
 color:white;
 }
 
