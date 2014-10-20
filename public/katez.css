@@ -83,10 +83,11 @@ body{
 /*SLIDER*/
 
 #slideshow {
+	margin-top: 100px;
 	position: relative;
 	width: 640px;
 	height: 310px;
-	padding: 50px;
+	padding: 15px;
 	border: 1px solid #ddd;
 	margin: 0 auto 2em;
 	background: #FFF;
