@@ -118,9 +118,9 @@ body{
 
 #slider {
     display: block;
-    height: 320px;
+    height: 520px;
     min-width: 260px;
-    max-width: 640px;
+    max-width: 840px;
     margin: auto;
     margin-top: 20px;
     position: relative;
