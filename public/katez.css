@@ -147,8 +147,8 @@ body{
 }
 
 #sliderinner>ul>li {
-    width: 20%;
-    height: 320px;
+    width: 50%;
+    height: 470px;
     float: left;
     position: relative;
 }
