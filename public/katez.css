@@ -42,7 +42,7 @@ body{
 
 #redes_menu li{
 	display:inline-block;
-	padding:10px;
+	/*padding:10px;*/
 	margin-left: 40px;
 	font:bold 25px Tahoma;
 }
