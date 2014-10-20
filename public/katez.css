@@ -89,7 +89,7 @@ body{
 #menu-fondo-fijo li{
 	display:inline-block;
 	text-align:rigth;
-	padding-right:100px;
+	padding-right:70px;
 	color:white;
 	text-align:center;
 }
@@ -111,7 +111,7 @@ body{
 	clear: both;
 	text-align:center;
 	color:white;
-	padding:20px;	
+	padding:50px;	
 }
 
 /*SLIDER*/
