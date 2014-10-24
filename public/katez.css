@@ -185,7 +185,7 @@ h1 {color:#333; text-shadow:1px 1px #999; font-size:40px; font-family:Archivo Na
     transition: background-color .2s;
 }
 
-#slider input[type=radio]#control1:checked~label[for=control3] { background-color: #333; }
+#slider input[type=radio]#control1:checked~label[for=control1] { background-color: #333; }
 #slider input[type=radio]#control2:checked~label[for=control2] { background-color: #333; }
 #slider input[type=radio]#control3:checked~label[for=control3] { background-color: #333; }
 #slider input[type=radio]#control4:checked~label[for=control4] { background-color: #333; }
