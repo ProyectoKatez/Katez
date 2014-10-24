@@ -19,9 +19,6 @@ header, section, footer, aside, nav, article, hgroup{
 	display:block;
 }
 
-body{
-	text-align: center;
-}
 
 #contenedor{
 	width: 100%;	
@@ -106,4 +103,12 @@ body{
 	text-align:center;
 	color:white;
 	padding:65px;	
+}
+
+#twitter{
+	float: left;
+}
+
+#facebook{
+	float: right;
 }
