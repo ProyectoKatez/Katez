@@ -111,13 +111,18 @@ header, section, footer, aside, nav, article, hgroup{
 	float: left;
 	margin-left:5%;
 	width: 40%;
+	border-radius: 15px;
+	-moz-border-radius: 15px;
+	-webkit-border-radius: 15px;
 }
 
 #facebook{
-	border:1px solid black;
 	margin-top: 40px;
 	background: #333333;
 	float: right;
 	margin-right:5%;
 	width: 40%;
+	border-radius: 15px;
+	-moz-border-radius: 15px;
+	-webkit-border-radius: 15px;
 }
