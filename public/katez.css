@@ -367,8 +367,8 @@ body{
 	left:0; top:0;
 	width: 400%;
 	height: 310px;
-	/*background: url(img/dummy-640x310-1.jpg) 0 0 no-repeat, url(img/dummy-640x310-2.jpg) 640px 0 no-repeat, url(img/dummy-640x310-3.jpg) 1280px 0 no-repeat, url(img/dummy-640x310-4.jpg) 1920px 0 no-repeat;
-*/}
+	background: url(img/dummy-640x310-1.jpg) 0 0 no-repeat, url(img/dummy-640x310-2.jpg) 640px 0 no-repeat, url(img/dummy-640x310-3.jpg) 1280px 0 no-repeat, url(img/dummy-640x310-4.jpg) 1920px 0 no-repeat;
+}
 .sl_i:target ~ #slideshow .c_slider {
 	-webkit-transition: background 1s;
 	-moz-transition: background 1s;
@@ -481,4 +481,3 @@ body{
 	color:white;
 	padding:65px;	
 }
-
