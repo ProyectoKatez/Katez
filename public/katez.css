@@ -81,9 +81,11 @@ body{
 }
 
 /*SLIDER*/
-
+#slider{
+	margin: 200px;
+}
 #slideshow {
-	
+
 	position: relative;
 	width: 640px;
 	height: 310px;
