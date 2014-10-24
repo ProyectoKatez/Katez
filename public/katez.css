@@ -81,15 +81,13 @@ body{
 }
 
 /*SLIDER*/
-#slider{
-	padding: 200px;
-}
+
 #slideshow {
 
 	position: relative;
 	width: 640px;
 	height: 310px;
-	padding: 15px;
+	padding: 515px;
 	border: 1px solid #ddd;
 	margin: 0 auto 2em;
 	background: #FFF;
