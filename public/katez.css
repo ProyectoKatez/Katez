@@ -88,9 +88,9 @@ body{
 	width: 640px;
 	height: 310px;
 	padding: 15px;
-	margin-top: 300px;
+	padding-top: 200px;
 	border: 1px solid #ddd;
-	margin: 0 auto 2em;
+	/*margin: 0 auto 2em;*/
 	background: #FFF;
 	background: -webkit-linear-gradient(#FFF, #FFF 20%, #EEE 80%, #DDD);
 	background: -moz-linear-gradient(#FFF, #FFF 20%, #EEE 80%, #DDD);
