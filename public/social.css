@@ -114,6 +114,7 @@ header, section, footer, aside, nav, article, hgroup{
 }
 
 #facebook{
+	border: black;
 	margin-top: 40px;
 	background: #333333;
 	float: right;
