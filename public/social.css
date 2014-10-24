@@ -106,6 +106,7 @@ header, section, footer, aside, nav, article, hgroup{
 }
 
 #twitter{
+	margin-top: 70px;
 	clear:both;
 	float: left;
 	margin-left:5%;
@@ -113,6 +114,7 @@ header, section, footer, aside, nav, article, hgroup{
 }
 
 #facebook{
+	margin-top: 70px;
 	background: #333333;
 	float: right;
 	margin-right:5%;
