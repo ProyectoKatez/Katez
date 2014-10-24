@@ -107,10 +107,10 @@ header, section, footer, aside, nav, article, hgroup{
 
 #twitter{
 	clear:both;
-	float: left;
+	text-align: left;
 }
 
 #facebook{
-	
-	float: right;
+
+	text-align: right;
 }
