@@ -110,7 +110,7 @@ header, section, footer, aside, nav, article, hgroup{
 	clear:both;
 	float: left;
 	margin-left:5%;
-	width: 35%;
+	width: 40%;
 }
 
 #facebook{
@@ -119,5 +119,5 @@ header, section, footer, aside, nav, article, hgroup{
 	background: #333333;
 	float: right;
 	margin-right:5%;
-	width: 30%;
+	width: 40%;
 }
