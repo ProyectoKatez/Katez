@@ -106,9 +106,11 @@ header, section, footer, aside, nav, article, hgroup{
 }
 
 #twitter{
+	clear:both;
 	float: left;
 }
 
 #facebook{
+	
 	float: right;
 }
