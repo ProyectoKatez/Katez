@@ -1,0 +1,88 @@
+<!DOCTYPE html>
+<html lang="es">
+
+	<head>
+		<meta charset="utf-8" />
+		<title>KATEZ WEB ORRIALDEA</title>
+		<link rel="stylesheet" href="katez.css" />
+		<link href='http://fonts.googleapis.com/css?family=Shadows+Into+Light' rel='stylesheet' type='text/css'>
+	
+	
+	
+		<script src="../audiojs/audiojs/audio.min.js"></script>
+		<script>
+  			audiojs.events.ready(function() {
+    			var as = audiojs.createAll();
+			});
+		</script>
+
+		<nav id="redes_menu">
+			<ul>
+				<li> <a href="social.html"><img src="img/Twitter.png" width="55px" height="55px"/> </a> </li>
+				<li> <a href="social.html"><img src="img/face.png" width="55px" height="55px"/> </a> </li>
+			</ul>
+
+		</nav>
+    </head>
+        
+
+	<body>
+ 		<div id ="contenedor">
+			<header id="cabecera">
+			</header>
+
+			<div id ="menu_entero">
+				<nav id="top_menu">
+				<!-- <ul>
+					
+					<li><audio src="mp3/katez01.mp3" preload="auto"></audio></li>
+	
+				</ul> -->
+				</nav>
+					<div class="limpiador"></div>
+			</div>
+
+		
+	
+		</div>
+
+		<div id="ytplayer"></div>
+
+				<script>
+  					// Load the IFrame Player API code asynchronously.
+  					var tag = document.createElement('script');
+  					tag.src = "https://www.youtube.com/player_api";
+  					var firstScriptTag = document.getElementsByTagName('script')[0];
+  					firstScriptTag.parentNode.insertBefore(tag, firstScriptTag);
+
+					  // Replace the 'ytplayer' element with an <iframe> and
+					  // YouTube player after the API code downloads.
+					  var player;
+					  function onYouTubePlayerAPIReady() {
+					    player = new YT.Player('ytplayer', {
+					      height: '390',
+					      width: '640',
+					      videoId: 'M7lc1UVf-VE'
+					    });
+					  }
+				</script>
+  
+	<div id="menu-fondo-fijo">
+
+
+					<ul>
+						<li><h2><a href="index.html">HASIERA</a></h2></li>
+						<li><h2>MUSIKA</h2></li>
+						<li><h2>BIDEOAK</h2></li>
+						<li><h2>PARTAIDEAK</h2></li>
+						<li><h2>KONTAKTUA</h2></li>
+					</ul>
+	</div>
+
+		<footer id="the_footer">
+			<p>Katez Web Orrialdea</p>
+		</footer>
+</div>
+</body>
+	
+</html>
