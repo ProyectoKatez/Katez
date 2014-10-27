@@ -105,31 +105,6 @@ header, section, footer, aside, nav, article, hgroup{
 	padding:65px;	
 }
 
-
-
-/*Parte Social*/
-
-
-
-
-#twitter{
-	margin-top: 40px;
-	clear:both;
-	float: left;
-	margin-left:5%;
-	width: 40%;
-	border-radius: 15px;
-	-moz-border-radius: 15px;
-	-webkit-border-radius: 15px;
-}
-
-#facebook{
-	margin-top: 40px;
-	background: #333333;
-	float: right;
-	margin-right:5%;
-	width: 40%;
-	border-radius: 15px;
-	-moz-border-radius: 15px;
-	-webkit-border-radius: 15px;
+#youtube{
+	
 }
